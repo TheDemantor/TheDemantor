@@ -26,24 +26,6 @@ Backend Engineer with **1.75+ years** of experience owning production APIs and c
 
 ---
 
-### 💼 Experience
-
-**System Engineer – Backend & Cloud Platform Development**
-*Tata Consultancy Services — Global Automotive Enterprise Client* · Jan 2025 – Present · Mumbai, India
-- Owned design, implementation, testing, monitoring, and maintenance of **30+ production APIs** (Node.js, TypeScript, Express.js, REST, GraphQL) supporting workflows across **6,000+ global service centers**
-- Built event-driven backend workflows using **AWS Lambda, SQS, and Step Functions** for async processing, service decoupling, and scheduled serverless workloads
-- Engineered an enterprise integration layer consuming REST, GraphQL, and SOAP APIs from three legacy systems, normalizing heterogeneous data while handling **JWT, OAuth 2.0, and Basic Auth**
-- Implemented secure APIs with input validation, AWS Secrets Manager, and Checkmarx vulnerability remediation; wrote Jest unit tests reaching **~90% coverage**
-- Used **AWS CloudWatch** for production monitoring/debugging across services built on Amazon DocumentDB, ElastiCache, Docker, and AWS Fargate in a private VPC architecture
-- Integrated an **LLM-powered RAG ticket-verification workflow** with human-in-the-loop validation, improving solution quality by **90%**
-
-**Software Developer Intern**
-*Neophyte Ambient Intelligence* · Feb 2024 – Jul 2024 · Navi Mumbai, India
-- Optimized MongoDB aggregation pipelines, indexing, and schema design for a computer-vision retail platform deployed across **18,000+ stores**, improving performance by **~70%**
-- Designed backend APIs/database workflows for an enterprise analytics platform and built a **Unity-based XR app** integrated with backend services for real-time data capture
-
----
-
 ### 🚀 Featured Projects
 
 | Project | Description |
